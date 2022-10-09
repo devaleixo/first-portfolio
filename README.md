@@ -1,2 +1,3 @@
 # first-portfolio
-While studying in Le Wagon.
+Made just to learn basics about css and html.
+
