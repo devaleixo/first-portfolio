@@ -1,0 +1,136 @@
+html{
+    background-color:#d3d3d3;
+    font-family: Monospace;
+}
+  
+.page img{
+    border-radius: 50%;
+    width:550px;
+    height:550px;
+    padding: 0;
+    margin-right: 100px;
+    margin-top: 100px;
+
+}
+.page h1{
+    font-size: 25px;
+    text-align:center;
+    letter-spacing:20px;
+    padding: 0;
+    margin-top: 350px;
+    margin-left: 125px;
+}
+  
+.page{
+    background-color:#f5f3f4;
+    width:1700px;
+    box-shadow:0px 0px 12px rgba(51, 51, 51, 0.4);
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius:20px;
+    height: 3000px;
+    padding-bottom: 800px;
+    display: block;
+}
+.about-me{
+    background-color:#EFEFEF;
+    width:800px;
+    height: 180px;
+    box-shadow:5px 5px 3px rgba(51, 51, 51, 0.4);
+    border-radius:20px;
+    
+    display: inline;
+    margin-right: 800px;
+} 
+
+.header{
+    background-color: #EFEFEF;
+    height: 1000px;
+    display: block;
+}
+.h1-meimg{
+    display: flex;
+}
+  
+
+.about-me p{
+    text-align: center;
+    
+}
+h2{
+    margin-bottom:0px;
+    font-size:40px;
+    padding: 0px;
+    font-family: 'Playfair Display', serif;
+    color:black;
+    text-align: justify;
+    
+    
+}
+.about-me p{
+    text-align:center;
+    font-size:25px;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding:20px;
+}
+.HPP{
+    background-color:#EFEFEF;
+    width:450px;
+    box-shadow:5px 5px 3px rgba(51, 51, 51, 0.4);
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border-radius:20px;
+    display:block;
+}
+.HPP p{
+    text-align:center;
+    font-size:20px;
+    text-align:center;
+    margin:20;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.HPP h3{
+  font-size:30px;
+  text-align:center;
+  margin:auto;
+  margin-left:30;
+}
+  
+#link{
+    text-decoration:none;
+    background-color:#edede9;
+    color: black;
+    padding:20px;
+    border-radius:20px;
+    margin: auto;
+    display:flex;
+    width:300px;
+    justify-content:center;
+    margin-bottom: 30px;
+    box-shadow: 0 0 16px rgba(0,0,0,0.1);
+}
+  
+#link:hover{
+    background-color:#f5f3f4;
+    transition: 1s;
+    color:black;
+}
+
+.introduction-section{
+    display: inline-flex;
+    margin-top: 100px;
+    align-items: center;
+    margin-left: 250px;
+
+    
+}
+.introduction-section h2{
+    padding-left:80px;
+    text-align: center;
+    padding-right: 50px;
+
+}
+.HP-title h2{
+    margin-top:50px;
+    
+}
